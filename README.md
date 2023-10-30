@@ -1,3 +1,5 @@
+ENGLISH | [中文](./README_zh.md)
+
 # F1 News Website
 
 This is a news aggregation website focused on Formula 1 racing, providing the latest news updates on Formula 1 events, teams, and drivers. The website sources its data from major sports news websites, official event sites, and social media channels. The project aims to offer a convenient platform for Formula 1 enthusiasts to stay updated with the latest news.
@@ -14,7 +16,7 @@ This is a news aggregation website focused on Formula 1 racing, providing the la
 - **Web Scraping**: Python's Beautiful Soup library for data scraping
 - **Deployment**: GitHub Pages
 
-
+## Contributions
 
 Contributions are welcome! If you find a bug or have suggestions for improvements, feel free to raise an issue or submit a pull request to help enhance this project.
 
