@@ -1,4 +1,4 @@
-[ENGLISH](./README.md) | 中文
+[English](./README.md) | 中文
 
 # F1 News 网站
 
