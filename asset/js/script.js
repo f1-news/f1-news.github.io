@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   // 图片数据数组，包含图片路径、标题和类别
   const imageData = await loadNews();
   //每页显示的件数
-  const itemsPerPage = 22;
+  const itemsPerPage = 18;
   // 移动端当前页面
   let currentPage = 1;
 
