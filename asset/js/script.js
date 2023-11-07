@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         loadingElement.style.display = "none";
       });
       // create loading
-      const loadingElement = document.createElement("img");
+      const loadingElement = document.createElement("div");
       loadingElement.classList.add("image-loading");
       loadingElement.textContent = "Loading...";
       loadingElement.style.display = "block";
