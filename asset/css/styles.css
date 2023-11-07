@@ -41,7 +41,7 @@ nav ul li a {
 
 /* Style the hero section */
 .hero {
-  background-image: url("../backgournd.png");
+  background-image: url("../../backgournd.png");
   background-size: cover;
   text-align: center;
   padding: 100px 0;
@@ -70,6 +70,22 @@ a {
   padding: 20px;
 }
 
+/* 添加 loading 样式 */
+.image-loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  line-height: 600px;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  z-index: 1;
+}
+
 .card {
   flex-basis: 45%;
   margin-bottom: 20px;
@@ -78,7 +94,6 @@ a {
   padding: 30px;
   text-align: center;
   border-radius: 5px;
-  color: #e10600;
 }
 
 .tag {
@@ -88,12 +103,18 @@ a {
   letter-spacing: 0.5px;
   text-transform: uppercase;
   font-weight: 700;
+  color: #e10600;
 }
 
 .card img {
   max-width: 80%;
   height: auto;
   margin-bottom: 10px;
+  transition: transform 0.2s;
+}
+
+.card:hover img {
+  transform: scale(1.05);
 }
 
 .card h2 {
@@ -135,4 +156,82 @@ footer {
   .card h2 {
     font-size: 1rem;
   }
+}
+
+button {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #ddd;
+  border-color: #fff;
+  border: none;
+  cursor: pointer;
+  padding: 10px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.pagination-container {
+  text-align: center;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.pagination-container button {
+  margin: 0 1px;
+  border-radius: 5px;
+  padding: 15px 3em;
+}
+
+.loader-wrapper {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.loader {
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top: 4px solid #3498db;
+  width: 40px;
+  height: 40px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* to top */
+.scroll-top-btn {
+  display: none;
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+  padding: 10px 15px;
+  border-radius: 50px;
+  background-color: rgba(90, 89, 89, 0.8);
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 55px;
+}
+
+.scroll-top-btn:hover {
+  background-color: rgba(119, 115, 115, 0.8);
+  transition: background-color 0.3s ease;
+}
+
+.scroll-top-btn.show {
+  display: block;
 }
