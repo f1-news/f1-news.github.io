@@ -91,6 +91,9 @@ function loadImage(src, callback) {
   img.onload = function () {
     callback(img);
   };
+  img.onerror = function () {
+    callback(img);
+  };
   img.src = src;
 }
 /**
