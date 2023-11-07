@@ -3,17 +3,15 @@ document.addEventListener("DOMContentLoaded", async function () {
   const imageData = await loadNews();
   //每页显示的件数
   const itemsPerPage = 22;
-  //当前页图片
-  let currentImages = imageData ? imageData.slice() : imageData;
   // 移动端当前页面
   let currentPage = 1;
 
   function displayImages(currentPage) {
     const startIndex = (currentPage - 1) * itemsPerPage;
     const endIndex = startIndex + itemsPerPage;
-    const pageImages = currentImages.slice(startIndex, endIndex);
+    currentImages = imageData.slice(startIndex, endIndex);
     const gallery = document.querySelector(".news");
-    pageImages.forEach((el) => {
+    currentImages.forEach((el) => {
       //article
       const article = document.createElement("article");
       article.classList.add("card");
@@ -60,7 +58,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   loadMoreBtn.addEventListener("click", function () {
     currentPage++;
     displayImages(currentPage);
-    if (itemsPerPage > pageImages.length) {
+    if (itemsPerPage > currentImages.length) {
       loadMoreBtn.style.display = "none";
     }
   });
