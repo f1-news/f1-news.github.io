@@ -1,5 +1,83 @@
 [
     {
+        "title": "What the teams said - Friday in Abu Dhabi",
+        "tag": "Feature",
+        "url": "https://formula1.com/en/latest/article.what-the-teams-said-friday-in-abu-dhabi-2023.6gyDqNinpIiwGBEs7blZev.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/Abu Dhabi/Hulkenberg Abu Dhabi 2023 practice"
+    },
+    {
+        "title": "PRACTICE DEBRIEF: Will Red Bull face a fight in Abu Dhabi after a disrupted opening day?",
+        "tag": "Feature",
+        "url": "https://formula1.com/en/latest/article.practice-debrief-will-red-bull-face-a-fight-in-abu-dhabi-after-a-disrupted.6C5nS3Jfn6MdSkLCJLPiPx.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2023/F1_Grand_Prix_of_Abu_Dhabi___Practice/1811540555"
+    },
+    {
+        "title": "Leclerc hails positive start after setting early pace in Abu Dhabi but warns of \u2018work to do\u2019",
+        "tag": "News",
+        "url": "https://formula1.com/en/latest/article.leclerc-hails-positive-start-after-setting-early-pace-in-abu-dhabi-but-warns.5sqLpcm98Q435lAsDNqmjA.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/trackside-images/2023/F1_Grand_Prix_of_Abu_Dhabi___Practice/1811509321"
+    },
+    {
+        "title": "WATCH: Ride onboard with Leclerc for the fastest lap of Friday practice in Abu Dhabi",
+        "tag": "",
+        "url": "https://formula1.com/en/latest/article.watch-ride-onboard-with-leclerc-for-the-fastest-lap-of-friday-practice-in.xjirieVxLAgimqW9nWjvB.html",
+        "cover": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/e99d3655-5b45-474a-9a99-b8e832b96976/a40a7244-ed75-4cab-a955-8b7367511d17/206x116/match/image.jpg"
+    },
+    {
+        "title": "'Not the greatest' \u2013 Hamilton less than happy with opening day running in Abu Dhabi",
+        "tag": "News",
+        "url": "https://formula1.com/en/latest/article.not-the-greatest-hamilton-less-than-happy-with-opening-day-running-in-abu.7DG5WHTApccdJNZSdPv4P6.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2023/Mercedes/GettyImages-1799289990"
+    },
+    {
+        "title": "Norris expecting 'very close' qualifying battle but insists McLaren are in a 'good position' in Abu Dhabi",
+        "tag": "News",
+        "url": "https://formula1.com/en/latest/article.norris-expecting-very-close-qualifying-battle-but-insists-mclaren-are-in-a.7cj3XEcAyqc7RFtdan9RIC.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2023/F1_Grand_Prix_of_Abu_Dhabi___Practice/1811340913"
+    },
+    {
+        "title": "HIGHLIGHTS: Watch the FP2 action as Leclerc sets the pace amid two red flags in Abu Dhabi",
+        "tag": "",
+        "url": "https://formula1.com/en/latest/article.highlights-watch-the-fp2-action-as-leclerc-sets-the-pace-amid-two-red-flags.5qA6MJ88cSomgwDLOLI6Kq.html",
+        "cover": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/d9864ccb-f62a-4def-b43b-3ba4fa146236/77ab2c2a-7136-4ab7-b869-e63506f082ac/206x116/match/image.jpg"
+    },
+    {
+        "title": "\u2018We have a lot to figure out\u2019 \u2013 Verstappen left searching for answers after Friday practice in Abu Dhabi",
+        "tag": "News",
+        "url": "https://formula1.com/en/latest/article.we-have-a-lot-to-figure-out-verstappen-left-searching-for-answers-after.6QAc5otVV2ldKFxEZE4Bpg.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/Abu Dhabi/verstappen-cockpit-abu-dhabi-2023"
+    },
+    {
+        "title": "Horner details contact with Hamilton\u2019s dad but denies \u2018serious discussion\u2019 over Red Bull move",
+        "tag": "News",
+        "url": "https://formula1.com/en/latest/article.horner-details-contact-with-hamiltons-dad-but-denies-serious-discussion-over.unpKuGS5F9rVdRvM30bja.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/Miscellaneous/horner-hamilton-2023"
+    },
+    {
+        "title": "FP2: Leclerc leads as Sainz and Hulkenberg crash out in incident hampered second practice in Abu Dhabi",
+        "tag": "Report",
+        "url": "https://formula1.com/en/latest/article.fp2-leclerc-leads-as-sainz-and-hulkenberg-crash-out-in-incident-hampered.2WXcFdBIZtN0Pn68UEBsfL.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2023/F1_Grand_Prix_of_Abu_Dhabi___Previews/1809650836"
+    },
+    {
+        "title": "WATCH: Sainz crash brings out red flags during FP2 in Abu Dhabi",
+        "tag": "",
+        "url": "https://formula1.com/en/latest/article.watch-sainz-crash-brings-out-red-flags-during-fp2-in-abu-dhabi.4oqkj1IXWYt6N1XfeInzlR.html",
+        "cover": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/9f32f430-f440-4152-8177-79450e3a97ee/bfd4f6d3-e372-4182-9bcb-ea30721466b4/206x116/match/image.jpg"
+    },
+    {
+        "title": "F2: Doohan overcomes Martins for Abu Dhabi pole as title leader Pourchaire hits trouble",
+        "tag": "Report",
+        "url": "https://formula1.com/en/latest/article.f2-doohan-overcomes-martins-for-abu-dhabi-pole-as-title-leader-pourchaire.6hCkcYNuhfMMzFHHxEkb7.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/Abu Dhabi/doohan-pole-abu-dhabi-f2-2023"
+    },
+    {
+        "title": "AS IT HAPPENED: Follow all the action from second practice for the Abu Dhabi Grand Prix",
+        "tag": "LiveBlog",
+        "url": "https://formula1.com/en/latest/article.live-coverage-second-practice-in-abu-dhabi-2023.5yOSh9fch6JU32dkwQyT5I.html",
+        "cover": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2023/F1_Grand_Prix_of_Abu_Dhabi___Practice/1811418267"
+    },
+    {
         "title": "ANALYSIS: Why McLaren\u2019s new Mercedes power unit deal made perfect sense for both parties",
         "tag": "Feature",
         "url": "https://formula1.com/en/latest/article.analysis-why-mclarens-new-mercedes-power-unit-deal-made-perfect-sense-for.SVaQza9cfgqiSfuzi8CzZ.html",
