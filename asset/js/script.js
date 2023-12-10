@@ -15,20 +15,24 @@ document.addEventListener("DOMContentLoaded", async function () {
       //article
       const article = document.createElement("article");
       article.classList.add("card");
-      //img
-      const img = new Image();
-      img.alt = el.title;
-      img.title = el.title;
-      img.src = el.cover;
-      loadImage(el.cover, function () {
-        // hide loading
-        loadingElement.style.display = "none";
-      });
       // create loading
       const loadingElement = document.createElement("div");
       loadingElement.classList.add("image-loading");
       loadingElement.textContent = "Loading...";
       loadingElement.style.display = "block";
+      //img
+      const img = new Image();
+      img.onload = function () {
+        // hide loading
+        loadingElement.style.display = "none";
+      };
+      img.onerror = function () {
+        // hide loading
+        loadingElement.style.display = "none";
+      };
+      img.alt = el.title;
+      img.title = el.title;
+      img.src = el.cover;
       //ceate link
       const alink = document.createElement("a");
       alink.href = el.url;
