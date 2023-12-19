@@ -42,12 +42,10 @@ document.addEventListener("DOMContentLoaded", async function () {
       const tag = document.createElement("div");
       tag.classList.add("tag");
       tag.textContent = el.tag;
-      const br = document.createElement("br");
       const h2 = document.createElement("h2");
       titleContainer.appendChild(h2);
       h2.textContent = el.title;
       titleContainer.appendChild(tag);
-      titleContainer.appendChild(br);
       titleContainer.appendChild(h2);
       alink.appendChild(img);
       alink.appendChild(titleContainer);
@@ -105,7 +103,7 @@ function loadImage(src, callback) {
  */
 async function loadNews() {
   try {
-    const response = await fetch(`raw/datas.json`);
+    const response = await fetch(`raw/datas_zh.json`);
     const datas = await response.json();
     if (!datas) {
       datas = [];
