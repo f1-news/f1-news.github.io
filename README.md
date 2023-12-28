@@ -1,6 +1,6 @@
 English | [中文](./README_zh.md)
 
-# F1新闻 Website
+# F1 News Website
 
 This is a news aggregation website focused on Formula 1 racing, providing the latest news updates on Formula 1 events, teams, and drivers. The website sources its data from major sports news websites, official event sites, and social media channels. The project aims to offer a convenient platform for Formula 1 enthusiasts to stay updated with the latest news.
 
