@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://f1-news.github.io/sitemap.xml
