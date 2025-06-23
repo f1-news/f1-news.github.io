@@ -5,7 +5,6 @@
     <link>https://f1-news.github.io/posts/</link>
     <description>Recent content in Posts on F1新聞 - FNS 123</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
     <lastBuildDate>Mon, 16 Jun 2025 23:31:17 +0000</lastBuildDate><atom:link href="https://f1-news.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>驾驶员和星星最初是“ F1”首映</title>
@@ -1507,7 +1506,7 @@
       <pubDate>Sun, 01 Jun 2025 08:59:01 +0000</pubDate>
       
       <guid>https://f1-news.github.io/posts/tremayne-the-tragic-story-of-the-1975-spanish-grand-prix/</guid>
-      <description>西班牙的官方大奖赛有一个圆周和多方面的历史。 The first pukka Spanish Grand Prix, run at Sitges, fell to Albert Divo&amp;rsquo;s Sunbeam in 1923 and the 1927 race at Lasarte, inevitably won by Robert Benoist&amp;rsquo;s Delage, was part of the AIACR (Association Internationale des Automobile Clubs Reconnus) World Manufacturers&amp;rsquo; Championship - effectively the forerunner of today&amp;rsquo;s</description>
+      <description>西班牙的官方大奖赛有一个圆周和多方面的历史。 The first pukka Spanish Grand Prix, run at Sitges, fell to Albert Divo&amp;rsquo;s Sunbeam in 1923 and the 1927 race at Lasarte, inevitably won by Robert Benoist&amp;rsquo;s Delage, was part of the AIACR (Association Internationale des Automobile Clubs Reconnus) World Manufacturers&#39; Championship - effectively the forerunner of today&amp;rsquo;s</description>
     </item>
     
     <item>
@@ -3217,7 +3216,7 @@
       <pubDate>Mon, 19 May 2025 13:04:44 +0000</pubDate>
       
       <guid>https://f1-news.github.io/posts/alonso-laments-pure-bad-luck-for-aston-martin-in-imola-despite-upgrades/</guid>
-      <description>费尔南多·阿隆索（Fernando Alonso）在伊莫拉（Imola）的“纯粹的厄运”（Pure But Luck&amp;rsquo;）在他的第五名开始时</description>
+      <description>费尔南多·阿隆索（Fernando Alonso）在伊莫拉（Imola）的“纯粹的厄运”（Pure But Luck&#39;）在他的第五名开始时，在第11场</description>
     </item>
     
     <item>
@@ -41962,7 +41961,7 @@
       <pubDate>Tue, 28 Nov 2023 13:53:47 +0000</pubDate>
       
       <guid>https://f1-news.github.io/posts/the-strategist-did-the-wrong-strategy-cost-alphatauri-p7-in-their/</guid>
-      <description>虽然在一级方程式赛车抵达阿布扎比进行赛季收官赛之前，车手和车队的冠军已经锁定，但仍有许多车队和车手为最终的名次而战——车队的每个位置&amp;rsq</description>
+      <description>虽然在一级方程式赛车抵达阿布扎比进行赛季收官赛之前，车手和车队的冠军已经锁定，但仍有许多车队和车手为最终的名次而战——车队的每个位置&#39; 排名对</description>
     </item>
     
     <item>
@@ -42173,21 +42172,12 @@
     </item>
     
     <item>
-      <title>F1 车队锦标赛初学者指南</title>
-      <link>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-constructors-championship/</link>
+      <title>F1 周末初学者指南</title>
+      <link>https://f1-news.github.io/posts/the-beginners-guide-to-the-formula-1-weekend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-constructors-championship/</guid>
-      <description>什么是 F1 车队锦标赛？ 我们的初学者指南提供您需要了解的有关一级方程式车队锦标赛的所有信息，解释它是什么、它如何运作以及它为何如此重要，并回答了</description>
-    </item>
-    
-    <item>
-      <title>F1 车手锦标赛初学者指南</title>
-      <link>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-drivers-championship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-drivers-championship/</guid>
-      <description>什么是 F1 车手锦标赛？ 我们的初学者指南提供您需要了解的有关一级方程式车手锦标赛的所有信息，解释它是什么、它如何运作以及为什么它是赛车运动中最令</description>
+      <guid>https://f1-news.github.io/posts/the-beginners-guide-to-the-formula-1-weekend/</guid>
+      <description>大奖赛周末如何进行？ 我们的初学者指南提供了您需要了解的有关 F1 周末比赛形式的所有信息，解释了它们的运作方式并了解了自 1950 年世界锦标赛开始以来它们</description>
     </item>
     
     <item>
@@ -42200,12 +42190,21 @@
     </item>
     
     <item>
-      <title>F1 周末初学者指南</title>
-      <link>https://f1-news.github.io/posts/the-beginners-guide-to-the-formula-1-weekend/</link>
+      <title>F1 车手锦标赛初学者指南</title>
+      <link>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-drivers-championship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/the-beginners-guide-to-the-formula-1-weekend/</guid>
-      <description>大奖赛周末如何进行？ 我们的初学者指南提供了您需要了解的有关 F1 周末比赛形式的所有信息，解释了它们的运作方式并了解了自 1950 年世界锦标赛开始以来它们</description>
+      <guid>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-drivers-championship/</guid>
+      <description>什么是 F1 车手锦标赛？ 我们的初学者指南提供您需要了解的有关一级方程式车手锦标赛的所有信息，解释它是什么、它如何运作以及为什么它是赛车运动中最令</description>
+    </item>
+    
+    <item>
+      <title>F1 车队锦标赛初学者指南</title>
+      <link>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-constructors-championship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/the-beginners-guide-to-the-f1-constructors-championship/</guid>
+      <description>什么是 F1 车队锦标赛？ 我们的初学者指南提供您需要了解的有关一级方程式车队锦标赛的所有信息，解释它是什么、它如何运作以及它为何如此重要，并回答了</description>
     </item>
     
     <item>
@@ -42227,57 +42226,30 @@
     </item>
     
     <item>
-      <title>阿布扎比大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/abu-dhabi-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>一级方程式欢迎Allwyn作为新的官方合作伙伴</title>
+      <link>https://f1-news.github.io/posts/formula-1-welcomes-allwyn-as-new-official-partner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/abu-dhabi-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年阿提哈德一级方程式阿布扎比大奖赛的全新数字比赛计划，包括上次迈凯伦夺得车队桂冠时发生的情况以及 2024 年 F1 学院当选冠军阿比·拉林 (Abbi Pulling) 的专题</description>
+      <guid>https://f1-news.github.io/posts/formula-1-welcomes-allwyn-as-new-official-partner/</guid>
+      <description>一级方程式赛车今天宣布，它将欢迎全球领先的彩票运营商Allwyn作为一项多年合同的新官方合作伙伴，从2025年开始。 这两个组织之间有着巨大的</description>
     </item>
     
     <item>
-      <title>阿塞拜疆大奖赛 – 在这里阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/azerbaijan-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>乐高全系列亮相，一级方程式赛车以积木形式栩栩如生</title>
+      <link>https://f1-news.github.io/posts/formula-1-comes-to-life-in-brick-form-as-full-lego-range-unveiled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/azerbaijan-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年一级方程式卡塔尔航空阿塞拜疆大奖赛的全新数字比赛计划，包括有关皮埃尔·加斯利 (Pierre Gasly) 的复兴、阿斯顿·马丁 (Aston Martin) 的新时代以及莱昂纳多·福纳罗</description>
+      <guid>https://f1-news.github.io/posts/formula-1-comes-to-life-in-brick-form-as-full-lego-range-unveiled/</guid>
+      <description>继今年早些时候宣布建立多年合作伙伴关系后，一级方程式赛车和乐高集团推出了全新的乐高套装系列。 这些产品将于 2025 年初推出，涵盖所有 10 支一级方程式车</description>
     </item>
     
     <item>
-      <title>艾米利亚-罗马涅大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/emilia-romagna-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>关于 F1 您需要了解的一切 – 车手、车队、赛车、赛道等等</title>
+      <link>https://f1-news.github.io/posts/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/emilia-romagna-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 MSC Cruises Gran Premio del Made in Italy e dell&amp;rsquo;Emilia-Romagna 2024 的全新数字比赛计划，包括已故伟大的埃尔顿·塞纳 (Ayrton Senna) 去世 30 周年的专题报道，以及grid 的“其他”意大利车队 RB - 以及所</description>
-    </item>
-    
-    <item>
-      <title>巴林大奖赛 - 在此处阅读全新的数字竞赛计划</title>
-      <link>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2025/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2025/</guid>
-      <description>查看一级方程式赛车1号海湾Air Bahrain Grand Prix 2025的全新数字竞赛计划，无论您是亲自参加还是从远处参加，您需要了解有关Sakhir周末的所有信息。</description>
-    </item>
-    
-    <item>
-      <title>巴林大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>*查看 2024 年一级方程式海湾航空巴林大奖赛的全新数字比赛计划，包括刘易斯·汉密尔顿在梅赛德斯的最后一个赛季的专题报道以及 F1 学院令人兴奋的未来 - 以</description>
-    </item>
-    
-    <item>
-      <title>比利时大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/belgian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/belgian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年劳力士一级方程式比利时大奖赛的全新数字比赛计划，包括迈克尔·舒马赫在斯帕弗朗科尔尚赛道的著名比赛首秀的专题，以及对一级方程式物流的精</description>
+      <guid>https://f1-news.github.io/posts/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about/</guid>
+      <description>什么是一级方程式赛车？ 如果您是一级方程式赛车的新手，您可能会对这项运动以及我们如何年复一年地举办充满动感的世界之旅有一些疑问。好吧，我们已经</description>
     </item>
     
     <item>
@@ -42335,120 +42307,12 @@
     </item>
     
     <item>
-      <title>关于 F1 您需要了解的一切 – 车手、车队、赛车、赛道等等</title>
-      <link>https://f1-news.github.io/posts/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about/</link>
+      <title>匈牙利大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/hungarian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about/</guid>
-      <description>什么是一级方程式赛车？ 如果您是一级方程式赛车的新手，您可能会对这项运动以及我们如何年复一年地举办充满动感的世界之旅有一些疑问。好吧，我们已经</description>
-    </item>
-    
-    <item>
-      <title>观看：潮湿天气驾驶的挑战以及维斯塔潘和诺里斯如何采取“非常规”方法</title>
-      <link>https://f1-news.github.io/posts/watch-the-challenge-of-wet-weather-driving-and-how-verstappen-and-norris/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-the-challenge-of-wet-weather-driving-and-how-verstappen-and-norris/</guid>
-      <description>在湿地驾驶对于 F1 车手来说是一个巨大的挑战，但它也可以提供获得意想不到结果的机会 - 或者特别令人印象深刻的表现。在赛道不同部分的抓地力水平降低和</description>
-    </item>
-    
-    <item>
-      <title>观看：从“大问号”到冠军成功——舒马赫惊人复出的内幕</title>
-      <link>https://f1-news.github.io/posts/watch-from-big-question-marks-to-championship-success-the-inside-story-of/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-from-big-question-marks-to-championship-success-the-inside-story-of/</guid>
-      <description>这位车手的冠军头衔在银石赛道的八场比赛中突然中断，他在一场高速撞车事故中腿部骨折。科姆深入了解了舒马赫对事故严重性的担忧，而整形外科医生比尔</description>
-    </item>
-    
-    <item>
-      <title>观看：高速弯道的风险和回报 — Jolyon Palmer 认为谁需要在 2024 年获得信心</title>
-      <link>https://f1-news.github.io/posts/watch-the-risk-and-reward-of-high-speed-corners-and-who-jolyon-palmer-thinks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-the-risk-and-reward-of-high-speed-corners-and-who-jolyon-palmer-thinks/</guid>
-      <description>观看 F1 赛车冲过高速弯道的景象令人惊叹不已。它需要驾驶者的勇敢、承诺和精准。赛道的这些部分可能是最危险的，如果车手犯错，可能会出现严重问题。 虽</description>
-    </item>
-    
-    <item>
-      <title>观看：哈基宁令人难以置信的复出——从严重的撞车事故中幸存到连续两次获得世界冠军</title>
-      <link>https://f1-news.github.io/posts/watch-hakkinens-incredible-comeback-from-serious-crash-survival-to-back-to/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-hakkinens-incredible-comeback-from-serious-crash-survival-to-back-to/</guid>
-      <description>多年来，一级方程式赛车中有许多令人难忘的复出故事，但米卡·哈基宁在一场可怕的事故后爬上顶峰的故事尤其令人心酸。 这位芬兰人不断取得的进步在 1995 年</description>
-    </item>
-    
-    <item>
-      <title>观看：路特斯如何通过地面效应革命永远改变一级方程式赛车</title>
-      <link>https://f1-news.github.io/posts/watch-how-lotus-changed-formula-1-forever-with-their-ground-effect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-how-lotus-changed-formula-1-forever-with-their-ground-effect/</guid>
-      <description>技术开发是一级方程式赛车的一个关键方面，不断进行变化和改进以最大限度地提高性能。虽然法规可能会不断变化，但一些创新对这项运动产生了持久的影响</description>
-    </item>
-    
-    <item>
-      <title>观看：迈凯伦 MP4/4 如何重新定义 F1 统治地位的精彩故事</title>
-      <link>https://f1-news.github.io/posts/watch-the-incredible-story-of-how-the-mclaren-mp4-4-redefined-dominance-in/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-the-incredible-story-of-how-the-mclaren-mp4-4-redefined-dominance-in/</guid>
-      <description>虽然红牛在 2023 年凭借夺冠的 RB19 打破了多项纪录，但许多 F1 车迷仍会记得迈凯伦 MP4/4 在令人难忘的 1988 赛季中树立了统治基准。 由于阿兰·普罗斯特和埃尔顿·塞纳两</description>
-    </item>
-    
-    <item>
-      <title>观看：诺里斯和佩雷斯如何从他们的制动方式中获得和失去</title>
-      <link>https://f1-news.github.io/posts/watch-how-norris-and-perez-have-gained-and-lost-from-their-braking-styles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-how-norris-and-perez-have-gained-and-lost-from-their-braking-styles/</guid>
-      <description>每个 F1 车手在赛道上都有自己的风格，但他们表现中最关键的方面之一实际上涉及他们如何减慢赛车 - 换句话说，制动风格。 制动意味着以正确的速度到达转折</description>
-    </item>
-    
-    <item>
-      <title>观看：普罗斯特如何从场边复出并赢得冠军</title>
-      <link>https://f1-news.github.io/posts/watch-how-prost-returned-from-the-sidelines-to-make-a-title-winning-comeback/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-how-prost-returned-from-the-sidelines-to-make-a-title-winning-comeback/</guid>
-      <description>到 20 世纪 80 年代末，阿兰·普罗斯特 (Alain Prost) 已将自己的名字牢牢地铭刻在一级方程式历史书中，并获得了三个世界冠军。然而，他的第四次也是最后一次冠军头衔</description>
-    </item>
-    
-    <item>
-      <title>观看：乔里恩·帕尔默 (Jolyon Palmer) 为何认为塞恩斯在强大的赛车技术方面可能会引领 F1 领域</title>
-      <link>https://f1-news.github.io/posts/watch-why-jolyon-palmer-thinks-sainz-may-lead-the-f1-field-when-it-comes-to/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-why-jolyon-palmer-thinks-sainz-may-lead-the-f1-field-when-it-comes-to/</guid>
-      <description>虽然掌握刹车、转弯和潮湿条件下驾驶等技能对于任何 F1 车手来说都至关重要，但这些能力必须与良好的比赛技巧相结合才能取得成功。比赛技巧涉及诸如良好</description>
-    </item>
-    
-    <item>
-      <title>观看：维斯塔潘“独特”的风格和阿隆索“非常不同”的过弯方法</title>
-      <link>https://f1-news.github.io/posts/watch-verstappens-distinct-style-and-alonsos-very-different-approach-to/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/watch-verstappens-distinct-style-and-alonsos-very-different-approach-to/</guid>
-      <description>一级方程式赛车完全与速度有关，因此不用说，在赛道上赢得或失去时间是车手表现的一个重要方面。 这就是转弯发挥作用的地方，车手的目标是在赛道上保持</description>
-    </item>
-    
-    <item>
-      <title>国际汽联和一级方程式赛车公布 2025 年赛历</title>
-      <link>https://f1-news.github.io/posts/fia-and-formula-1-announces-calendar-for-2025/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/fia-and-formula-1-announces-calendar-for-2025/</guid>
-      <description>国际汽联和一级方程式赛车已经公布了 2025 年国际汽联一级方程式世界锦标赛的赛历，在该锦标赛成立 75 周年之际，又一个 24 轮的赛季即将为车迷、车手和车队准</description>
-    </item>
-    
-    <item>
-      <title>荷兰大奖赛 – 在此处阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/dutch-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/dutch-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年一级方程式喜力荷兰大奖赛的全新数字比赛计划，包括负责领导威廉姆斯复兴的詹姆斯·沃尔斯 (James Vowles) 的专题报道，以及本周末 F1 学院的回归 - 以及所有</description>
+      <guid>https://f1-news.github.io/posts/hungarian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年一级方程式匈牙利大奖赛的全新数字比赛计划，包括 Valtteri Bottas 和 Kick Sauber 2024 年的功能，以及 Hungaroring 的重建 - 以及所有 10 支 F1 车队的统计数据&amp;hellip; 在 App Store</description>
     </item>
     
     <item>
@@ -42461,39 +42325,21 @@
     </item>
     
     <item>
-      <title>拉斯维加斯大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/las-vegas-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>国际汽联和一级方程式赛车公布 2025 年赛历</title>
+      <link>https://f1-news.github.io/posts/fia-and-formula-1-announces-calendar-for-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/las-vegas-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年一级方程式喜力拉斯维加斯大奖赛的全新数字比赛计划，包括奥斯卡·皮亚斯特里 (Oscar Piastri) 冉冉升起的新星的特色，以及本周末展示的特殊汽车涂装 - 以及</description>
+      <guid>https://f1-news.github.io/posts/fia-and-formula-1-announces-calendar-for-2025/</guid>
+      <description>国际汽联和一级方程式赛车已经公布了 2025 年国际汽联一级方程式世界锦标赛的赛历，在该锦标赛成立 75 周年之际，又一个 24 轮的赛季即将为车迷、车手和车队准</description>
     </item>
     
     <item>
-      <title>乐高全系列亮相，一级方程式赛车以积木形式栩栩如生</title>
-      <link>https://f1-news.github.io/posts/formula-1-comes-to-life-in-brick-form-as-full-lego-range-unveiled/</link>
+      <title>圣保罗大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/sao-paulo-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/formula-1-comes-to-life-in-brick-form-as-full-lego-range-unveiled/</guid>
-      <description>继今年早些时候宣布建立多年合作伙伴关系后，一级方程式赛车和乐高集团推出了全新的乐高套装系列。 这些产品将于 2025 年初推出，涵盖所有 10 支一级方程式车</description>
-    </item>
-    
-    <item>
-      <title>迈阿密大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/miami-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/miami-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年 Formula 1 Crypto.com 迈阿密大奖赛的全新数字比赛计划，包括家乡英雄洛根·萨金特 (Logan Sargeant) 的专题报道、硬石体育场 (Hard Rock Stadium) 及其数千名团队如何为 F1 的到来做好准备，</description>
-    </item>
-    
-    <item>
-      <title>美国大奖赛 – 在此处阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/united-states-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/united-states-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年倍耐力一级方程式美国大奖赛的全新数字比赛计划，包括丰田与哈斯一起重返 F1 的专题、为什么丹尼尔·里卡多将被深深怀念，以及迈向顶级赛车运动</description>
+      <guid>https://f1-news.github.io/posts/sao-paulo-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年巴西一级方程式联想 Grande Premio 比赛的全新数字比赛计划，其中包括艾尔顿·塞纳 (Ayrton Senna) 的 10 个 F1 辉煌时刻 - 以及所有 10 支 F1 车队的统计数据&amp;hellip;</description>
     </item>
     
     <item>
@@ -42506,30 +42352,21 @@
     </item>
     
     <item>
-      <title>目的地指南：F1 车迷参观巴林大奖赛时可以吃什么、看什么、做什么</title>
-      <link>https://f1-news.github.io/posts/destination-guide-what-f1-fans-can-eat-see-and-do-when-they-visit-the/</link>
+      <title>巴林大奖赛 - 在此处阅读全新的数字竞赛计划</title>
+      <link>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/destination-guide-what-f1-fans-can-eat-see-and-do-when-they-visit-the/</guid>
-      <description>虽然萨基尔的比赛肯定会很激烈，但巴林王国等待车迷的文化盛宴同样美味。查看我们的导游带您参观巴林参加巴林大奖赛时的最佳美食、美食和活动。 巴林大</description>
+      <guid>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2025/</guid>
+      <description>查看一级方程式赛车1号海湾Air Bahrain Grand Prix 2025的全新数字竞赛计划，无论您是亲自参加还是从远处参加，您需要了解有关Sakhir周末的所有信息。</description>
     </item>
     
     <item>
-      <title>目的地指南：F1 车迷前往沙特阿拉伯大奖赛时可以吃饭、参观和住宿的地方</title>
-      <link>https://f1-news.github.io/posts/destination-guide-where-f1-fans-can-eat-visit-and-stay-when-they-visit-for/</link>
+      <title>巴林大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/destination-guide-where-f1-fans-can-eat-visit-and-stay-when-they-visit-for/</guid>
-      <description>尽管迄今为止只举办了几场比赛，但沙特阿拉伯大奖赛很快就确立了自己作为一场激动人心的赛事的地位，因为车手们在 F1 日历上最快的街道赛道上的灯光下展</description>
-    </item>
-    
-    <item>
-      <title>目的地指南：车迷前往伊莫拉观看艾米利亚·罗马涅大奖赛时可以吃什么、看什么、做什么</title>
-      <link>https://f1-news.github.io/posts/destination-guide-what-fans-can-eat-see-and-do-when-they-visit-imola-for-the/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1-news.github.io/posts/destination-guide-what-fans-can-eat-see-and-do-when-they-visit-imola-for-the/</guid>
-      <description>自 1953 年起，赛车首次在这条历史悠久的意大利赛道上开始，亚平宁山脉的山麓便回荡着引擎的轰鸣声，伊莫拉（或自 1988 年以来被称为国际恩佐·迪诺·法拉利赛</description>
+      <guid>https://f1-news.github.io/posts/bahrain-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>*查看 2024 年一级方程式海湾航空巴林大奖赛的全新数字比赛计划，包括刘易斯·汉密尔顿在梅赛德斯的最后一个赛季的专题报道以及 F1 学院令人兴奋的未来 - 以</description>
     </item>
     
     <item>
@@ -42560,6 +42397,51 @@
     </item>
     
     <item>
+      <title>意大利大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/italian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/italian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 Formula 1 Pirelli Gran Premio d&amp;rsquo;Italia 2024 的全新数字比赛计划，包括梅赛德斯门徒基米·安东内利 (Kimi Antonelli)、倍耐力 F1 长期老板马里奥·伊索拉 (Mario Isola) 的专题报道，以</description>
+    </item>
+    
+    <item>
+      <title>抓住机会获胜</title>
+      <link>https://f1-news.github.io/posts/crypto-com-overtake-of-the-month-prize-draw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/crypto-com-overtake-of-the-month-prize-draw/</guid>
+      <description>这个比赛现在已经结束 赢得 Crypto.com 本月超越奖杯 您已投票给一名司机。现在你获胜的机会来了。注册 F1 Unlocked 即可参与投票，为自己赢得 Crypto.com 本月最佳超越奖杯。如果这还</description>
+    </item>
+    
+    <item>
+      <title>拉斯维加斯大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/las-vegas-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/las-vegas-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年一级方程式喜力拉斯维加斯大奖赛的全新数字比赛计划，包括奥斯卡·皮亚斯特里 (Oscar Piastri) 冉冉升起的新星的特色，以及本周末展示的特殊汽车涂装 - 以及</description>
+    </item>
+    
+    <item>
+      <title>新加坡大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/singapore-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/singapore-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年新加坡航空新加坡大奖赛 1 级方程式锦标赛的全新数字比赛计划，包括威廉姆斯“安静巨人”亚历克斯·阿尔本 (Alex Albon) 的专题报道，以及本周末 F1 学院的</description>
+    </item>
+    
+    <item>
+      <title>比利时大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/belgian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/belgian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年劳力士一级方程式比利时大奖赛的全新数字比赛计划，包括迈克尔·舒马赫在斯帕弗朗科尔尚赛道的著名比赛首秀的专题，以及对一级方程式物流的精</description>
+    </item>
+    
+    <item>
       <title>沙特阿拉伯大奖赛 - 在此处阅读全新的数字竞赛计划</title>
       <link>https://f1-news.github.io/posts/saudi-arabian-grand-prix-read-the-all-new-digital-race-programme-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -42578,12 +42460,66 @@
     </item>
     
     <item>
-      <title>圣保罗大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/sao-paulo-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>目的地指南：F1 车迷前往沙特阿拉伯大奖赛时可以吃饭、参观和住宿的地方</title>
+      <link>https://f1-news.github.io/posts/destination-guide-where-f1-fans-can-eat-visit-and-stay-when-they-visit-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/sao-paulo-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年巴西一级方程式联想 Grande Premio 比赛的全新数字比赛计划，其中包括艾尔顿·塞纳 (Ayrton Senna) 的 10 个 F1 辉煌时刻 - 以及所有 10 支 F1 车队的统计数据&amp;hellip;</description>
+      <guid>https://f1-news.github.io/posts/destination-guide-where-f1-fans-can-eat-visit-and-stay-when-they-visit-for/</guid>
+      <description>尽管迄今为止只举办了几场比赛，但沙特阿拉伯大奖赛很快就确立了自己作为一场激动人心的赛事的地位，因为车手们在 F1 日历上最快的街道赛道上的灯光下展</description>
+    </item>
+    
+    <item>
+      <title>目的地指南：F1 车迷参观巴林大奖赛时可以吃什么、看什么、做什么</title>
+      <link>https://f1-news.github.io/posts/destination-guide-what-f1-fans-can-eat-see-and-do-when-they-visit-the/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/destination-guide-what-f1-fans-can-eat-see-and-do-when-they-visit-the/</guid>
+      <description>虽然萨基尔的比赛肯定会很激烈，但巴林王国等待车迷的文化盛宴同样美味。查看我们的导游带您参观巴林参加巴林大奖赛时的最佳美食、美食和活动。 巴林大</description>
+    </item>
+    
+    <item>
+      <title>目的地指南：车迷前往伊莫拉观看艾米利亚·罗马涅大奖赛时可以吃什么、看什么、做什么</title>
+      <link>https://f1-news.github.io/posts/destination-guide-what-fans-can-eat-see-and-do-when-they-visit-imola-for-the/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/destination-guide-what-fans-can-eat-see-and-do-when-they-visit-imola-for-the/</guid>
+      <description>自 1953 年起，赛车首次在这条历史悠久的意大利赛道上开始，亚平宁山脉的山麓便回荡着引擎的轰鸣声，伊莫拉（或自 1988 年以来被称为国际恩佐·迪诺·法拉利赛</description>
+    </item>
+    
+    <item>
+      <title>美国大奖赛 – 在此处阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/united-states-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/united-states-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年倍耐力一级方程式美国大奖赛的全新数字比赛计划，包括丰田与哈斯一起重返 F1 的专题、为什么丹尼尔·里卡多将被深深怀念，以及迈向顶级赛车运动</description>
+    </item>
+    
+    <item>
+      <title>艾米利亚-罗马涅大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/emilia-romagna-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/emilia-romagna-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 MSC Cruises Gran Premio del Made in Italy e dell&amp;rsquo;Emilia-Romagna 2024 的全新数字比赛计划，包括已故伟大的埃尔顿·塞纳 (Ayrton Senna) 去世 30 周年的专题报道，以及grid 的“其他”意大利车队 RB - 以及所</description>
+    </item>
+    
+    <item>
+      <title>英国大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/british-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/british-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年一级方程式卡塔尔航空英国大奖赛的全新数字比赛计划，包括有关兰多·诺里斯 (Lando Norris) 赛车工程师的感受以及 F1 最新冉冉升起的新星和哈斯 2025 年签约车手</description>
+    </item>
+    
+    <item>
+      <title>荷兰大奖赛 – 在此处阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/dutch-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/dutch-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年一级方程式喜力荷兰大奖赛的全新数字比赛计划，包括负责领导威廉姆斯复兴的詹姆斯·沃尔斯 (James Vowles) 的专题报道，以及本周末 F1 学院的回归 - 以及所有</description>
     </item>
     
     <item>
@@ -42605,48 +42541,93 @@
     </item>
     
     <item>
-      <title>新加坡大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/singapore-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>观看：乔里恩·帕尔默 (Jolyon Palmer) 为何认为塞恩斯在强大的赛车技术方面可能会引领 F1 领域</title>
+      <link>https://f1-news.github.io/posts/watch-why-jolyon-palmer-thinks-sainz-may-lead-the-f1-field-when-it-comes-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/singapore-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年新加坡航空新加坡大奖赛 1 级方程式锦标赛的全新数字比赛计划，包括威廉姆斯“安静巨人”亚历克斯·阿尔本 (Alex Albon) 的专题报道，以及本周末 F1 学院的</description>
+      <guid>https://f1-news.github.io/posts/watch-why-jolyon-palmer-thinks-sainz-may-lead-the-f1-field-when-it-comes-to/</guid>
+      <description>虽然掌握刹车、转弯和潮湿条件下驾驶等技能对于任何 F1 车手来说都至关重要，但这些能力必须与良好的比赛技巧相结合才能取得成功。比赛技巧涉及诸如良好</description>
     </item>
     
     <item>
-      <title>匈牙利大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/hungarian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>观看：从“大问号”到冠军成功——舒马赫惊人复出的内幕</title>
+      <link>https://f1-news.github.io/posts/watch-from-big-question-marks-to-championship-success-the-inside-story-of/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/hungarian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年一级方程式匈牙利大奖赛的全新数字比赛计划，包括 Valtteri Bottas 和 Kick Sauber 2024 年的功能，以及 Hungaroring 的重建 - 以及所有 10 支 F1 车队的统计数据&amp;hellip; 在 App Store</description>
+      <guid>https://f1-news.github.io/posts/watch-from-big-question-marks-to-championship-success-the-inside-story-of/</guid>
+      <description>这位车手的冠军头衔在银石赛道的八场比赛中突然中断，他在一场高速撞车事故中腿部骨折。科姆深入了解了舒马赫对事故严重性的担忧，而整形外科医生比尔</description>
     </item>
     
     <item>
-      <title>一级方程式欢迎Allwyn作为新的官方合作伙伴</title>
-      <link>https://f1-news.github.io/posts/formula-1-welcomes-allwyn-as-new-official-partner/</link>
+      <title>观看：哈基宁令人难以置信的复出——从严重的撞车事故中幸存到连续两次获得世界冠军</title>
+      <link>https://f1-news.github.io/posts/watch-hakkinens-incredible-comeback-from-serious-crash-survival-to-back-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/formula-1-welcomes-allwyn-as-new-official-partner/</guid>
-      <description>一级方程式赛车今天宣布，它将欢迎全球领先的彩票运营商Allwyn作为一项多年合同的新官方合作伙伴，从2025年开始。 这两个组织之间有着巨大的</description>
+      <guid>https://f1-news.github.io/posts/watch-hakkinens-incredible-comeback-from-serious-crash-survival-to-back-to/</guid>
+      <description>多年来，一级方程式赛车中有许多令人难忘的复出故事，但米卡·哈基宁在一场可怕的事故后爬上顶峰的故事尤其令人心酸。 这位芬兰人不断取得的进步在 1995 年</description>
     </item>
     
     <item>
-      <title>意大利大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/italian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>观看：普罗斯特如何从场边复出并赢得冠军</title>
+      <link>https://f1-news.github.io/posts/watch-how-prost-returned-from-the-sidelines-to-make-a-title-winning-comeback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/italian-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 Formula 1 Pirelli Gran Premio d&amp;rsquo;Italia 2024 的全新数字比赛计划，包括梅赛德斯门徒基米·安东内利 (Kimi Antonelli)、倍耐力 F1 长期老板马里奥·伊索拉 (Mario Isola) 的专题报道，以</description>
+      <guid>https://f1-news.github.io/posts/watch-how-prost-returned-from-the-sidelines-to-make-a-title-winning-comeback/</guid>
+      <description>到 20 世纪 80 年代末，阿兰·普罗斯特 (Alain Prost) 已将自己的名字牢牢地铭刻在一级方程式历史书中，并获得了三个世界冠军。然而，他的第四次也是最后一次冠军头衔</description>
     </item>
     
     <item>
-      <title>英国大奖赛 – 在此阅读全新的数字比赛计划</title>
-      <link>https://f1-news.github.io/posts/british-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <title>观看：潮湿天气驾驶的挑战以及维斯塔潘和诺里斯如何采取“非常规”方法</title>
+      <link>https://f1-news.github.io/posts/watch-the-challenge-of-wet-weather-driving-and-how-verstappen-and-norris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/british-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
-      <description>查看 2024 年一级方程式卡塔尔航空英国大奖赛的全新数字比赛计划，包括有关兰多·诺里斯 (Lando Norris) 赛车工程师的感受以及 F1 最新冉冉升起的新星和哈斯 2025 年签约车手</description>
+      <guid>https://f1-news.github.io/posts/watch-the-challenge-of-wet-weather-driving-and-how-verstappen-and-norris/</guid>
+      <description>在湿地驾驶对于 F1 车手来说是一个巨大的挑战，但它也可以提供获得意想不到结果的机会 - 或者特别令人印象深刻的表现。在赛道不同部分的抓地力水平降低和</description>
+    </item>
+    
+    <item>
+      <title>观看：维斯塔潘“独特”的风格和阿隆索“非常不同”的过弯方法</title>
+      <link>https://f1-news.github.io/posts/watch-verstappens-distinct-style-and-alonsos-very-different-approach-to/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/watch-verstappens-distinct-style-and-alonsos-very-different-approach-to/</guid>
+      <description>一级方程式赛车完全与速度有关，因此不用说，在赛道上赢得或失去时间是车手表现的一个重要方面。 这就是转弯发挥作用的地方，车手的目标是在赛道上保持</description>
+    </item>
+    
+    <item>
+      <title>观看：诺里斯和佩雷斯如何从他们的制动方式中获得和失去</title>
+      <link>https://f1-news.github.io/posts/watch-how-norris-and-perez-have-gained-and-lost-from-their-braking-styles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/watch-how-norris-and-perez-have-gained-and-lost-from-their-braking-styles/</guid>
+      <description>每个 F1 车手在赛道上都有自己的风格，但他们表现中最关键的方面之一实际上涉及他们如何减慢赛车 - 换句话说，制动风格。 制动意味着以正确的速度到达转折</description>
+    </item>
+    
+    <item>
+      <title>观看：路特斯如何通过地面效应革命永远改变一级方程式赛车</title>
+      <link>https://f1-news.github.io/posts/watch-how-lotus-changed-formula-1-forever-with-their-ground-effect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/watch-how-lotus-changed-formula-1-forever-with-their-ground-effect/</guid>
+      <description>技术开发是一级方程式赛车的一个关键方面，不断进行变化和改进以最大限度地提高性能。虽然法规可能会不断变化，但一些创新对这项运动产生了持久的影响</description>
+    </item>
+    
+    <item>
+      <title>观看：迈凯伦 MP4/4 如何重新定义 F1 统治地位的精彩故事</title>
+      <link>https://f1-news.github.io/posts/watch-the-incredible-story-of-how-the-mclaren-mp4-4-redefined-dominance-in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/watch-the-incredible-story-of-how-the-mclaren-mp4-4-redefined-dominance-in/</guid>
+      <description>虽然红牛在 2023 年凭借夺冠的 RB19 打破了多项纪录，但许多 F1 车迷仍会记得迈凯伦 MP4/4 在令人难忘的 1988 赛季中树立了统治基准。 由于阿兰·普罗斯特和埃尔顿·塞纳两</description>
+    </item>
+    
+    <item>
+      <title>观看：高速弯道的风险和回报 — Jolyon Palmer 认为谁需要在 2024 年获得信心</title>
+      <link>https://f1-news.github.io/posts/watch-the-risk-and-reward-of-high-speed-corners-and-who-jolyon-palmer-thinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/watch-the-risk-and-reward-of-high-speed-corners-and-who-jolyon-palmer-thinks/</guid>
+      <description>观看 F1 赛车冲过高速弯道的景象令人惊叹不已。它需要驾驶者的勇敢、承诺和精准。赛道的这些部分可能是最危险的，如果车手犯错，可能会出现严重问题。 虽</description>
     </item>
     
     <item>
@@ -42686,12 +42667,30 @@
     </item>
     
     <item>
-      <title>抓住机会获胜</title>
-      <link>https://f1-news.github.io/posts/crypto-com-overtake-of-the-month-prize-draw/</link>
+      <title>迈阿密大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/miami-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://f1-news.github.io/posts/crypto-com-overtake-of-the-month-prize-draw/</guid>
-      <description>这个比赛现在已经结束 赢得 Crypto.com 本月超越奖杯 您已投票给一名司机。现在你获胜的机会来了。注册 F1 Unlocked 即可参与投票，为自己赢得 Crypto.com 本月最佳超越奖杯。如果这还</description>
+      <guid>https://f1-news.github.io/posts/miami-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年 Formula 1 Crypto.com 迈阿密大奖赛的全新数字比赛计划，包括家乡英雄洛根·萨金特 (Logan Sargeant) 的专题报道、硬石体育场 (Hard Rock Stadium) 及其数千名团队如何为 F1 的到来做好准备，</description>
+    </item>
+    
+    <item>
+      <title>阿塞拜疆大奖赛 – 在这里阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/azerbaijan-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/azerbaijan-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年一级方程式卡塔尔航空阿塞拜疆大奖赛的全新数字比赛计划，包括有关皮埃尔·加斯利 (Pierre Gasly) 的复兴、阿斯顿·马丁 (Aston Martin) 的新时代以及莱昂纳多·福纳罗</description>
+    </item>
+    
+    <item>
+      <title>阿布扎比大奖赛 – 在此阅读全新的数字比赛计划</title>
+      <link>https://f1-news.github.io/posts/abu-dhabi-grand-prix-read-the-all-new-digital-race-programme-here-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1-news.github.io/posts/abu-dhabi-grand-prix-read-the-all-new-digital-race-programme-here-2024/</guid>
+      <description>查看 2024 年阿提哈德一级方程式阿布扎比大奖赛的全新数字比赛计划，包括上次迈凯伦夺得车队桂冠时发生的情况以及 2024 年 F1 学院当选冠军阿比·拉林 (Abbi Pulling) 的专题</description>
     </item>
     
   </channel>
