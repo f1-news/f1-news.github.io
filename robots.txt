@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /api/
-Disallow: /private/
+Allow: /
 Sitemap: https://f1-news.github.io/sitemap.xml
