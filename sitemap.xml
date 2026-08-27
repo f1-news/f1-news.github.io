@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://f1-news.github.io/</loc>
+    <lastmod>2026-08-27T19:52:11+00:00</lastmod>
+  </url><url>
+    <loc>https://f1-news.github.io/posts/norris-driving-at-the-level-of-a-world-champion-says-stella-after-zandvoort/</loc>
+    <lastmod>2026-08-27T19:52:11+00:00</lastmod>
+  </url><url>
+    <loc>https://f1-news.github.io/posts/</loc>
+    <lastmod>2026-08-27T19:52:11+00:00</lastmod>
+  </url><url>
+    <loc>https://f1-news.github.io/posts/gasly-praises-alpines-positive-step-after-points-in-zandvoort-while-colapinto-rues-harsh-penalty/</loc>
+    <lastmod>2026-08-27T19:52:10+00:00</lastmod>
+  </url><url>
+    <loc>https://f1-news.github.io/posts/how-alonso-used-a-unique-strategy-to-earn-p9-for-aston-martin-in-zandvoort/</loc>
+    <lastmod>2026-08-27T19:52:10+00:00</lastmod>
+  </url><url>
+    <loc>https://f1-news.github.io/posts/tech-weekly-how-are-ferrari-keeping-costs-low-for-their-latest-upgrades/</loc>
+    <lastmod>2026-08-27T19:52:09+00:00</lastmod>
+  </url><url>
+    <loc>https://f1-news.github.io/posts/a-really-horrible-weekend-for-bearman-and-haas-as-they-suffer-double-dutch-dnf/</loc>
+    <lastmod>2026-08-27T19:52:09+00:00</lastmod>
+  </url><url>
+    <loc>https://f1-news.github.io/posts/tsunoda-puts-himself-back-on-the-f1-radar-after-just-missing-the-points-in-zandvoort/</loc>
+    <lastmod>2026-08-27T11:49:57+00:00</lastmod>
+  </url><url>
     <loc>https://f1-news.github.io/posts/5-winners-and-5-losers-from-zandvoort-2026-dutch-grand-prix/</loc>
     <lastmod>2026-08-26T21:51:12+00:00</lastmod>
   </url><url>
     <loc>https://f1-news.github.io/posts/f1-academy-unveils-expanded-2026-rookie-test-with-new-training-camp/</loc>
-    <lastmod>2026-08-26T21:51:12+00:00</lastmod>
-  </url><url>
-    <loc>https://f1-news.github.io/</loc>
-    <lastmod>2026-08-26T21:51:12+00:00</lastmod>
-  </url><url>
-    <loc>https://f1-news.github.io/posts/</loc>
     <lastmod>2026-08-26T21:51:12+00:00</lastmod>
   </url><url>
     <loc>https://f1-news.github.io/posts/7-moments-you-might-have-missed-at-the-2026-dutch-grand-prix/</loc>
@@ -2667,9 +2685,6 @@
     <lastmod>2026-01-13T07:15:35+00:00</lastmod>
   </url><url>
     <loc>https://f1-news.github.io/posts/14-drivers-from-different-eras-who-raced-each-other-in-f1/</loc>
-    <lastmod>2026-01-11T21:41:34+00:00</lastmod>
-  </url><url>
-    <loc>https://f1-news.github.io/posts/who-are-the-2026-team-principals/</loc>
     <lastmod>2026-01-11T21:41:34+00:00</lastmod>
   </url><url>
     <loc>https://f1-news.github.io/posts/from-surprise-substitutes-to-title-winning-comebacks-f1-drivers-who-bounced/</loc>
